@@ -25,17 +25,3 @@ A visually accurate, responsive clone of the **Netflix homepage UI**, built usin
 
 ---
 
-## 📂 Folder Structure
-Netflix-UI-Clone/
-├── index.html
-├── style.css
-└── Assets/
-├── Images/
-│ ├── Bg.jpg
-│ ├── tv.png
-│ ├── mobile-0819.jpg
-│ ├── device-pile.png
-│ ├── Kids.png
-│ ├── video-tv-0819.m4v
-│ └── video-devices.m4v
-└── link.svg
